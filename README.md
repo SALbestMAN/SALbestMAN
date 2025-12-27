@@ -1,4 +1,4 @@
-# Hi, I'm Salman 👋
+# Hi, I'm Salman 👋🏻
 
 🎓 **Computer Science Student**  
 💻 **Front-end & Back-end Developer**  
@@ -7,7 +7,7 @@
 I’m a Computer Science student with a strong passion for both **software development** and **graphic design**.  
 I enjoy solving problems through structured, efficient code, and bringing ideas to life through clean, creative visuals.
 
-## 👨‍💻 About Me
+## 🧑🏻‍💻 About Me
 - Computer Science student at university  
 - Developer since 2019  
 - Freelance graphic designer since 2023  
