@@ -13,25 +13,22 @@ I enjoy solving problems through structured, efficient code, and bringing ideas 
 - Passionate about combining logic, creativity, and technology  
 - Always learning and improving my technical and design skills  
 
-## Experience <img src="images/Briefcase.png" width="25px"> 
+## Experience <img src="images/Fire.png" width="30px">  
 - **Back-end Developer**  
   Java, Python, C#, SQL Server LocalDB  
-
 - **Front-end Developer** 
   HTML, CSS, JavaScript  
-
 - **Graphic Designer (Freelance)**  
   Adobe After Effects, Adobe Illustrator, Adobe Photoshop, Blender, Procreate  
 
-## Skills <img src="images/Hammer and Wrench.png" width="30px">  
-### Programming & Development
+## Skills <img src="images/Star.png" width="25px"> 
+### Programming & Development  <img src="images/Laptop.png" width="20px"> 
 - Java  
 - Python  
 - C#  
 - HTML / CSS / JavaScript  
 - SQL Server LocalDB  
-
-### Design & Creative Tools
+### Design & Creative Tools  <img src="images/Artist Palette.png" width="20px"> 
 - Adobe After Effects  
 - Adobe Illustrator  
 - Adobe Photoshop  
