@@ -1,7 +1,7 @@
 # Hi, I'm Salman  <img src="https://github.com/user-attachments/assets/4d87477f-5b79-41f7-a803-f048628f091e" width="40px"> #
 **Computer Science Student**  <img src="https://github.com/user-attachments/assets/5096e04c-40d3-4e9a-a2d4-80d34e258cd8" width="30px">   
 **Front-end & Back-end Developer**  <img src="https://github.com/user-attachments/assets/96b8fc59-e7d9-4962-89a6-525bf6c90259" width="30px">   
-**Graphic Designer (Freelance)**] <img src="https://github.com/user-attachments/assets/296da7ab-8d90-41d4-9703-7767118d04b5" width="30px">   
+**Graphic Designer (Freelance)** <img src="https://github.com/user-attachments/assets/296da7ab-8d90-41d4-9703-7767118d04b5" width="30px">   
 
 I’m a Computer Science student with a strong passion for both **software development** and **graphic design**.  
 I enjoy solving problems through structured, efficient code, and bringing ideas to life through clean, creative visuals.
