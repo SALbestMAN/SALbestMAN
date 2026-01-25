@@ -7,7 +7,7 @@ I’m a Computer Science student with a strong passion for both **software devel
 I enjoy solving problems through structured, efficient code, and bringing ideas to life through clean, creative visuals.
 
 ## About Me <img src="https://github.com/user-attachments/assets/d3bbea15-8a18-4503-bb66-dd486dd43ae8" width="30px"> 
-- Computer Science student at university  
+- Computer Science student at AU  
 - Developer since 2019  
 - Freelance graphic designer since 2023  
 - Passionate about combining logic, creativity, and technology  
